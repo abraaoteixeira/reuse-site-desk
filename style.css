@@ -10,7 +10,7 @@
 }
 
 body {
-    background-image: url(ali3.png), url(retan.png);
+    background-image: url(image/ali3.png), url(image/retan.png);
     display: grid;
     width: 100vw;
     height: 100vh;
